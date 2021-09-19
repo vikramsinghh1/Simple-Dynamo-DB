@@ -1,4 +1,4 @@
-# Replicated Key-Value Storage
+# Distributed Key-Value Storage
 #### A naive DynamoDB implementation.
 #### This project is a part of the Distributed Systems Course taken by [Ethan Blanton](https://cse.buffalo.edu/~eblanton/) at the University at Buffalo.
 
