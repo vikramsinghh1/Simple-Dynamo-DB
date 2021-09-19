@@ -11,7 +11,7 @@
 ### Non Functional Requirements
 
 * Implementation provides strong consistency guranatees by leveraging Lineariability. 
-* Implementation maintains high availabilty.
+* Implementation is mostly available.
 * Handle temporary single node failures. Upon recovery, the recovered node updates itself with the objects missed during the down time.
 * Data replication should happen over three consecutive partitions/nodes.
 
