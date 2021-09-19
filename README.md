@@ -7,8 +7,6 @@
 ### Functional Requirements
 
 * Storage should support insert, delete and query.
-* Storage should support 
-
 
 ### Non Functional Requirements
 
